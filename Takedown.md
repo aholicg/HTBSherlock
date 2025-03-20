@@ -12,3 +12,8 @@ What likely legit binary was downloaded to the victim machine?
 ```
 continue using `find a packet`, with option `packet byte` & `string`:
 ![bilde](https://github.com/user-attachments/assets/66e9c0ee-640b-406a-a0cd-5f794febf096)
+
+```bash
+Task 8
+```
+Wrong hash, wrong TLSH, VirtusTotal detected my script.ahk as script.ahk.txt T.T
