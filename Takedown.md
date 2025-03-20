@@ -15,13 +15,19 @@ continue using `find a packet`, with option `packet byte` & `string`:
 
 ```bash
 Task 8
-
+What is the TLSH of the malware?
 ```
 Wrong hash, wrong TLSH, VirtusTotal detected my script.ahk as script.ahk.txt T.T (I only deleted the content inside comments)
 Oh, after downloading the original `jvtobaqj` file and looking through it again, the random words were commented out, not the main script (of course LOL). Did not touch the file at all -> VirusTotal -> correct detection
 You were not supposed to make any change on the original malware.
 
 What is even TLSH again???
+
+```bash
+Task 9
+What is the name given to this malware? Use the name used by McAfee, Ikarus, and alejandro.sanchez.
+```
+Scroll down under tab `Detection of VirtusTotal` -> `Security vendors' analysis`
 
 ```bash
 Task 10
