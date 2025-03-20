@@ -21,6 +21,8 @@ Wrong hash, wrong TLSH, VirtusTotal detected my script.ahk as script.ahk.txt T.T
 Oh, after downloading the original `jvtobaqj` file and looking through it again, the random words were commented out, not the main script (of course LOL). Did not touch the file at all -> VirusTotal -> correct detection
 You were not supposed to make any change on the original malware.
 
+What is even TLSH again???
+
 ```bash
 Task 10
 What is the user-agent string of the infected machine?
