@@ -15,5 +15,7 @@ continue using `find a packet`, with option `packet byte` & `string`:
 
 ```bash
 Task 8
+
 ```
 Wrong hash, wrong TLSH, VirtusTotal detected my script.ahk as script.ahk.txt T.T
+Oh, after downloading the original `jvtobaqj` file and looking through it again, the random words were commented out, not the main script (of course LOL). Did not touch the file at all -> VirusTotal -> correct detection
