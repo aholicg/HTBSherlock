@@ -34,3 +34,4 @@ Task 10
 What is the user-agent string of the infected machine?
 ```
 By using `find a packet` with option `Packet detail` & `String` `User-Agent` there appeared to be only one infected machine but how do we know how many machines again??/
+
